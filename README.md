@@ -1,6 +1,6 @@
 # AI Web Scraping MCP Server
 
-An intelligent web scraping tool built with the Model Context Protocol (MCP) that searches documentation, fetches web content, and provides AI-powered responses using Groq's LLM API.
+An intelligent web scraping tool built with the Model Context Protocol (MCP) that searches documentation, fetches web content, and provides AI-powered responses.
 
 ## 🚀 Features
 
